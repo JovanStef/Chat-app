@@ -1,5 +1,1 @@
-# Chat-app
-# Chat-app
-# Chat-app
-# Chat-app
-# Chat-app
+This is a chat app made width NodeJs and SocketIo
